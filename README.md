@@ -196,7 +196,7 @@ Request: POST /logs
 | :-------- | :------------------ |
 | Header: Content-Type | text/plain |
 | Header: Content-Disposition | filename="<uniq-file-name>" (example: filename="log-1.txt") |
-| Header: x-api-key | F7XvZNRzgpDIXXJDsvoc9Er8XiiXMYt91musKIje |
+| Header: x-api-key | aws api key |
 | Body | *.txt file |
 
 
