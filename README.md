@@ -3,8 +3,9 @@
 
 Assignment Goal: Design and implement a solution to enable log file upload and auto-comperssion.
 
+# Architecture diagram
 
-
+![](/diagram.png)
 
 
 # Components
